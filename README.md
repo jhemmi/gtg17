@@ -1,6 +1,4 @@
-# GT717
-Projet documentaire GTG17 : Géo Terroir suite au Gel 2017
-Ce dépot contient les discussion et choix technique du projet gtg17.
+# Ma-sentinelle
+Projet documentaire de ma-sentinelle : une question et la proposition de réponse de jhemmi.eu.
  
 Il est actif par ses discussions dans les issues.
-Seules les définitions de shapefiles commmuns seront livrées dans ce dépot.
